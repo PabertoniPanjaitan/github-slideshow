@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+we act like smartest people in the town
 Use the left arrow to go back!
